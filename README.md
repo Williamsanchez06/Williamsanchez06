@@ -1,27 +1,27 @@
-<h1 align="center">Hola 👋, soy William Sanchez</h1> 
-<h3 align="center">Desarrollador Frontend apasionado por crear experiencias web dinámicas y eficientes</h3> 
+<h1 align="center">Hello 👋, I'm William Sanchez</h1> 
+<h3 align="center">Frontend developer passionate about creating dynamic and efficient web experiences</h3> 
 <p align="center">
-  Con más de 2 años de experiencia en el desarrollo frontend y backend, me especializo en construir aplicaciones web modernas, escalables y de alto rendimiento. 
-  Trabajo con un sólido stack tecnológico que incluye:
+  With over 2 years of experience in front-end and back-end development, I specialize in building modern, scalable, and high-performance web applications. 
+  I work with a solid tech stack that includes:
 </p> 
 <p align="center">
   <strong>Frontend:</strong> HTML5, CSS3, JavaScript, TypeScript, Angular<br>
   <strong>Backend:</strong> Node.js, Express, PHP<br>
-  <strong>Bases de datos:</strong> PostgreSQL, SQL Server, MongoDB
+  <strong>Databases:</strong> PostgreSQL, SQL Server, MongoDB
 </p> 
 <p align="center">
-  Mi objetivo es transformar ideas en soluciones innovadoras que mejoren la experiencia del usuario, utilizando las mejores prácticas de desarrollo y optimización. 
-  Me apasiona aprender constantemente y adoptar nuevas tecnologías que impulsen el rendimiento y la calidad del producto.
+  My goal is to transform ideas into innovative solutions that enhance user experience, using best practices in development and optimization. 
+  I am passionate about constantly learning and adopting new technologies that drive performance and product quality.
 </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/william-sanchezalva" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-sanchezalva" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/> 
