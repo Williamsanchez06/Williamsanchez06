@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm William Sanchez</h1> 
 <h3 align="center">Frontend developer passionate about creating dynamic and efficient web experiences</h3> 
 <p align="center">
-  With over 2 years of experience in front-end and back-end development, I specialize in building modern, scalable, and high-performance web applications. 
+  With over 3 years of experience in front-end and back-end development, I specialize in building modern, scalable, and high-performance web applications. 
   I work with a solid tech stack that includes:
 </p> 
 <p align="center">
   <strong>Frontend:</strong> HTML5, CSS3, JavaScript, TypeScript, Angular<br>
-  <strong>Backend:</strong> Node.js, Express, PHP<br>
-  <strong>Databases:</strong> PostgreSQL, SQL Server, MongoDB
+  <strong>Backend:</strong> Node.js, Java, Spring Boot<br>
+  <strong>Databases:</strong> PostgreSQL, SQL Server
 </p> 
 <p align="center">
   My goal is to transform ideas into innovative solutions that enhance user experience, using best practices in development and optimization. 
