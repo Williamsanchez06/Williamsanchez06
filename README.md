@@ -23,6 +23,12 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring boot" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
@@ -63,6 +69,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 </p>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamsanchez06&show_icons=true&locale=es&layout=compact" alt="williamsanchez06" />
